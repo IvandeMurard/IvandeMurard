@@ -17,11 +17,11 @@ Hi, I'm Ivan 👋
 Current Projects
 ----------------
 
-- 🛏️ **[Hospitality Operations Agent](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** – AI copilot for hotel & F&B teams: from reservations to staffing and guest messaging, plugged into your existing tools (PMS-agnostic).  
+- 🛏️ **[Hospitality Operations Agent](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - AI copilot for hotel managers predicting staffing and F&B needs (PMS-agnostic).  
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – Mobile-first noise pollution companion: measure, track, and understand the soundscape around you.  
-- 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation playground for agents and LLM workflows: compare prompts, models, and flows with product-centric metrics.  
-- 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin for your record crate: scan vinyl, get deep Discogs metadata and instant playback, built for selectors and record bars.  
-- 🌐 **[Portfolio – ivandemurard.com](https://github.com/IvandeMurard/Ivan-Portfolio)** – My personal site and portfolio, where I document projects, experiments, and talks.
+- 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
+- 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin for your record collection: scan, get deep Discogs metadata, and curate. Built for selectors and audiophile bars.  
+- 🌐 **[Portfolio – ivandemurard.com](https://github.com/IvandeMurard/Ivan-Portfolio)** – My personal site and portfolio.
 
 What I'm Doing
 --------------
