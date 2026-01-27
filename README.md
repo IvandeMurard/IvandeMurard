@@ -3,7 +3,14 @@ Hi, I'm Ivan 👋
 
 📍 **Paris** | 🤖 **Agentic AI builder** | 🛠️ **Operations PM**
 
-[TypeScript] [React] [Next.js] [Python] [FastAPI] [Supabase] [Claude] [Node.js]
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000)
+![Claude](https://img.shields.io/badge/-Claude-121212?style=flat&logo=anthropic&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 > Building AI-native tools for hospitality ops, urban sound, and vinyl culture.
 
