@@ -48,7 +48,7 @@ Connect
 -------
 
 [Twitter/X](https://x.com/IvanMurard) • [LinkedIn](https://www.linkedin.com/in/ivandemurard/) • [GitHub](https://github.com/IvandeMurard)
-## Hi there 👋
+## Say Hi!
 
 <!--
 **IvandeMurard/IvandeMurard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
