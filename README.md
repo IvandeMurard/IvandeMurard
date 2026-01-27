@@ -1,7 +1,7 @@
 Hi, I'm Ivan 👋
 ==============
 
-📍 **Paris** | 🤖 **Agentic AI builder** | 🛎️ **Hospitality & urban sound PM**
+📍 **Paris** | 🤖 **Agentic AI builder** | 🛎️ **Operations PM**
 
 [TypeScript] [React] [Next.js] [Python] [FastAPI] [Supabase] [Claude] [Node.js]
 
@@ -30,7 +30,7 @@ Legacy / Past Work
 - Product roles accross various sectors and company sizes (start-up, scale-up, large corporations).  
 - Various experiments around open data, automations, and internal tools that now inform my current agentic AI work.
 
-Media & Speaking
+Events
 ----------------
 
 - Organized a Product Management - Lenny's Newsletter meetup in Paris.
