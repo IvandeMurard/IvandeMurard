@@ -18,7 +18,7 @@ Current Projects
 ----------------
 
 - 🛏️ **[Hospitality Operations Agent](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - AI copilot for hotel managers predicting staffing and F&B needs (PMS-agnostic).  
-- 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – Mobile-first noise pollution companion: measure, track, and understand the soundscape around you.  
+- 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – The 2026 AI Remix of an entrepreneurial noise pollution SaaS project I worked on between 2020 and 2022. 
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin for your record collection: scan, contextualize, and curate. Built for selectors and audiophile bars.  
 - 🌐 **[Portfolio – ivandemurard.com](https://github.com/IvandeMurard/Ivan-Portfolio)** – My personal site and portfolio.
