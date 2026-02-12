@@ -23,6 +23,12 @@ Current Projects
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin for your record collection: scan, contextualize, and curate. Built for selectors and audiophile bars.  
 - 🌐 **[Portfolio – ivandemurard.com](https://github.com/IvandeMurard/Ivan-Portfolio)** – My personal site and portfolio.
 
+My Process
+--------------
+- **50% Problem Analysis** - Understanding the context and problem.
+- **40% Prompt Engineering** - A strong, clear, and structured prompt to save tokens and to get off to a good start.
+- **10% Build** - Picking the best stack for the job and applying quick iterations.
+
 What I'm Doing
 --------------
 
