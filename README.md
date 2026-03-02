@@ -12,7 +12,7 @@ Hi, I'm Ivan 👋
 ![Claude](https://img.shields.io/badge/-Claude-121212?style=flat&logo=anthropic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-> Building AI-native tools for hospitality ops, urban sound, and vinyl culture.
+> Building AI-native tools for hospitality ops, city life, industry kowledge management, and vinyl culture.
 
 Current Projects
 ----------------
