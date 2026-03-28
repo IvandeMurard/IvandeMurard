@@ -34,9 +34,10 @@ What I'm Doing
 My Process
 --------------
 
-- **Problem Analysis** - Understanding the context and problem.
+- **Problem Analysis** - Understanding the context, problem, and architecture before building.
+- **Build** - Picking the adapted stack and methodology, applying quick iterations, and rapidly testing.
 - **Continuous Discovery** - Continuously challenging the roadmap and product by transforming strategic intelligence and weak signals in business and product decisions.
-- **Build** - Picking the best stack, applying quick iterations, and rapidly testing.
+- **Documenting** - Establishing a Single-source-of-Truth, keeping the context, decisions made, what went well, and what didn't, formalized and accessible.
 
 Legacy / Past Work
 ------------------
