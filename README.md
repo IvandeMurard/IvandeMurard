@@ -35,7 +35,7 @@ My Process
 --------------
 
 - **Problem Analysis** - Understanding the context and problem.
-- **Continuous Discovery** - Transforming feedback and weak signals in business decisions.
+- **Continuous Discovery** - Continuously challenging the roadmap and product by transforming strategic intelligence and weak signals in business and product decisions.
 - **Build** - Picking the best stack, applying quick iterations, and rapidly testing.
 
 Legacy / Past Work
