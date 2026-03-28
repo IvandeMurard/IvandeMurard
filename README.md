@@ -27,22 +27,22 @@ Current Projects
 What I'm Doing
 --------------
 
-- **Exploring agentic AI for operations** – Applying agents to hospitality, music, and real-world services (from front-desk to record stores).  
+- **Exploring agentic AI for operations** – Applying agents to hospitality, music, and real-world services (from hospitality to the industry).  
 - **Shipping AI-native products** – Full-stack builds from prototype to live MVP, with a bias for fast iteration and real usage.  
 - **Writing & learning in public** – Sharing notes on product, evals, and AI systems design (Paris-based meetups, talks, and online content).
 
 My Process
 --------------
 
-- **50% Problem Analysis** - Understanding the context and problem.
-- **40% Prompt Engineering** - A strong, clear, and structured prompt to save tokens and to get off to a good start.
-- **10% Build** - Picking the best stack for the job and applying quick iterations.
+- **Problem Analysis** - Understanding the context and problem.
+- **Continuous Discovery** - Transforming feedback and weak signals in business decisions.
+- **Build** - Picking the best stack, applying quick iterations, and rapidly testing.
 
 Legacy / Past Work
 ------------------
 
 - 🔊 **Sonor** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.  
-- Product roles accross various sectors and company sizes (start-up, scale-up, large corporations).  
+- Product roles across various sectors and company sizes (start-up, scale-up, large corporations).  
 - Various experiments around open data, automations, and internal tools that now inform my current agentic AI work.
 
 Events
