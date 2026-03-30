@@ -36,7 +36,7 @@ My Process
 
 - **Problem Analysis** - Understanding the context, problem, and architecture before building.
 - **Build** - Picking the adapted stack and methodology, applying quick iterations, and rapidly testing.
-- **Continuous Discovery** - Continuously challenging the roadmap and product by transforming strategic intelligence and weak signals in business and product decisions.
+- **Continuous Discovery** - Continuously challenging the vision and roadmap, by analyzing the competition, market, and industry's novelties, insights, and weak signals.
 - **Documenting** - Establishing a Single-source-of-Truth, keeping the context, decisions made, what went well, and what didn't, formalized and accessible.
 
 Legacy / Past Work
