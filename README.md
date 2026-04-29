@@ -17,7 +17,7 @@ Hi, I'm Ivan 👋
 Current Projects
 ----------------
 
-- 🛏️ **[Hospitality Operations Agent](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - AI copilot for hotel managers predicting staffing and F&B needs (PMS-agnostic).  
+- 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations.  
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A mobile-first app to visualize noise pollution in Paris, find a calm apartment, and be guided through its quietest streets. 
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
