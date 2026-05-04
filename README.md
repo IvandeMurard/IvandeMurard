@@ -22,7 +22,7 @@ Current Projects
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - An AI voice industry knowledge management solution to capture unwritten expertise from senior technicians before they retire.
-- 🌐 **[Portfolio – ivandemurard.com](https://github.com/IvandeMurard/Ivan-Portfolio)** – My personal site and portfolio.
+- 🌐 **[Portfolio](ivandemurard.com)** – My personal site and portfolio.
 
 What I'm Doing
 --------------
