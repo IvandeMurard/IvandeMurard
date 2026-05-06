@@ -18,7 +18,7 @@ Current Projects
 ----------------
 
 - 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations.  
-- 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A mobile-first app to visualize noise pollution in Paris, find a calm apartment, and be guided through its quietest streets. 
+- 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - An AI voice industry knowledge management solution to capture unwritten expertise from senior technicians before they retire.
