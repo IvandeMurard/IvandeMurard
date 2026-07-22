@@ -20,10 +20,8 @@ Current Projects
 - 🛏️ **[Hospitality Agentic Mesh](https://github.com/IvandeMurard/hospitality-agentic-mesh)** - Meta-repo of the Hospitality Agentic Mesh - Specialized AI agents for hotel operations.
 - 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations. (Access on request).
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
-- 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. 
-- 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - An AI voice industry knowledge management solution to capture unwritten expertise from senior technicians before they retire.
-- 🌐 **[Portfolio] [ivandemurard.com](https://ivandemurard.com/)** – My personal site and portfolio - Work in progress.
+- 🌐 **[Portfolio] [ivandemurard.com](https://ivandemurard.com/)** – My personal site and portfolio.
 
 What I'm Doing
 --------------
@@ -43,7 +41,9 @@ My Process
 Legacy / Past Work
 ------------------
 
-- 🔊 **Sonor** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.  
+- 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.  
+- 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics.
+- 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - Product roles across various sectors and company sizes (start-up, scale-up, large corporations).  
 - Various experiments around open data, automations, and internal tools that now inform my current agentic AI work.
 
