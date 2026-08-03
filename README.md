@@ -21,7 +21,6 @@ Current Projects
 - 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations. (Access on request).
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - A persistent voice AI solution that turns retiring technicians’ tacit knowledge into living guidance for juniors on the shop floor.
-- 🌐 **[Portfolio] [ivandemurard.com](https://ivandemurard.com/)** – My personal site and portfolio.
 
 What I'm Doing
 --------------
