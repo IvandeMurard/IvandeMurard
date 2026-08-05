@@ -40,20 +40,21 @@ My Process
 Legacy / Past Work
 ------------------
 
-- 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.  
+- 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.
+- 🧭 **[Paris Compass](https://github.com/IvandeMurard/paris-compass)** - A contextual commercial real estate search application for Paris that sets every space back into its real environment (walkability, retail, transport, schools, healthcare, parks, noise, air quality, risks, ...,) using public open data.
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics.
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
-- Product roles across various sectors and company sizes (start-up, scale-up, large corporations).  
+- Product management roles across various sectors and company sizes: start-up, scale-up, large corporations.  
 - Various experiments around open data, automations, and internal tools that now inform my current agentic AI work.
 
 Events
 ----------------
 
-- Organized a Product Management - Lenny's Newsletter meetup in Paris.
+- Hosted a Product Management - Lenny's Newsletter meetup in Paris.
 - Joined 5 hackathons, won 2.
 - Regularly attend product and AI events and communities.
 
-Connect
+Let's connect
 -------
 
 [Twitter/X](https://x.com/IvanMurard) • [LinkedIn](https://www.linkedin.com/in/ivandemurard/) • [GitHub](https://github.com/IvandeMurard)
