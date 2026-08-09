@@ -21,6 +21,7 @@ Current Projects
 - 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations. (Access on request).
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - A persistent voice AI solution that turns retiring technicians’ tacit knowledge into living guidance for juniors on the shop floor.
+- 🧭 **[Paris Compass](https://github.com/IvandeMurard/paris-compass)** - Find your next commercial real estate venue with this contextual search engine for that sets every space back into its real environment (history, walkability, amenities, ...,) using public open data.
 
 What I'm Doing
 --------------
@@ -41,7 +42,6 @@ Legacy / Past Work
 ------------------
 
 - 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.
-- 🧭 **[Paris Compass](https://github.com/IvandeMurard/paris-compass)** - A contextual commercial real estate search application for Paris that sets every space back into its real environment (walkability, retail, transport, schools, healthcare, parks, noise, air quality, risks, ...,) using public open data.
 - 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics.
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - Product management roles across various sectors and company sizes: start-up, scale-up, large corporations.  
