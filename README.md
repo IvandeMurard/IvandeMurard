@@ -21,7 +21,7 @@ Current Projects
 - 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations. (Access on request).
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - A persistent voice AI solution that turns retiring technicians’ tacit knowledge into living guidance for juniors on the shop floor.
-- 🧭 **[Paris Compass](https://github.com/IvandeMurard/paris-compass)** - Find your next commercial real estate venue with this contextual search engine for that sets every space back into its real environment (history, walkability, amenities, ...,) using public open data.
+- 🧭 **[Paris Compass](https://github.com/IvandeMurard/paris-compass)** - Find the most adapted commercial real estate venue for your project with this contextual search engine that sets every space back into its environment (history, performance, walkability, amenities, ...,) using public open data.
 
 What I'm Doing
 --------------
