@@ -44,6 +44,7 @@ My Process
 Legacy / Past Work
 ------------------
 
+- 🏨 **Hospitality PMS (fortil)** – Wrote the functional spec for the F&B module of a hospitality PMS serving France's 3rd-largest eldercare group; MVP delivered, rollout planned for 500+ users across 100 properties. The operational problem the Mesh is built for.
 - 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.
 - 🔎 **EvalLabs** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. *(private repo)*
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
