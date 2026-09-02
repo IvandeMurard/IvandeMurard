@@ -22,7 +22,8 @@ Current Projects
 - 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - Meta-repo of the Hospitality Agentic Mesh - Specialized AI agents for hotel operations.
 - 🛏️ **Aetherix** - Contextual Agentic Intelligence layer for Hospitality Operations. *(private repo — walkthrough on request)*
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
-- 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - A persistent voice AI solution that turns retiring technicians’ tacit knowledge into living guidance for juniors on the shop floor.
+- 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - “In Africa, when an old man dies, it is a library that burns.” — Amadou Hampâté Bâ
+Lore, a persistent voice AI solution, is built on this idea: every retiring expert, every seasoned operator carries a library of specific tacit knowledge asking to be captured, structured, and reused in daily operations.
 - 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Every neighbourhood has its specifities. Don’t just find a space. Understand it. Compass turns open data into traceable, address-level context for commercial location decisions in Paris.
 
 What I'm Doing
