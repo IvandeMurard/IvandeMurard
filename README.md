@@ -1,7 +1,9 @@
 Hi, I'm Ivan 👋
 ==============
 
-📍 **Paris** | **AI Product Builder & Manager**
+📍 **Paris** | **Product Manager & Product Builder**
+
+🟢 **Currently available** — CDI · CDD · Freelance
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -58,7 +60,7 @@ Events
 Let's connect
 -------
 
-[Twitter/X](https://x.com/IvanMurard) • [LinkedIn](https://www.linkedin.com/in/ivandemurard/) • [GitHub](https://github.com/IvandeMurard)
+[Portfolio](https://ivandemurard.com) • [Twitter/X](https://x.com/IvanMurard) • [LinkedIn](https://www.linkedin.com/in/ivandemurard/) • [GitHub](https://github.com/IvandeMurard)
 ## 
 
 <!--
