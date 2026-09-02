@@ -12,7 +12,7 @@ Hi, I'm Ivan 👋
 ![Claude](https://img.shields.io/badge/-Claude-121212?style=flat&logo=anthropic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-> Building AI-native tools for hospitality ops, city life, industry kowledge management, and vinyl culture.
+> Building AI-native tools for hospitality ops, city life, industry knowledge management, and vinyl culture.
 
 Current Projects
 ----------------
@@ -37,6 +37,7 @@ My Process
 - **Build** - Picking the adapted stack and methodology, applying quick iterations, and rapidly testing.
 - **Continuous Discovery** - Continuously challenging the vision and roadmap, by analyzing the competition, market, and industry's novelties, insights, and weak signals.
 - **Documenting** - Establishing a Single-source-of-Truth, keeping the context, decisions made, what went well, and what didn't, formalized and accessible.
+- **Engineering rigor** - 1.13:1 test-to-app LOC ratio and 12 tracked ADRs on the flagship system; handled a real leaked-secrets incident end-to-end (history rewrite, full credential rotation, GitHub Support purge, post-mortem).
 
 Legacy / Past Work
 ------------------
