@@ -17,8 +17,8 @@ Hi, I'm Ivan 👋
 Current Projects
 ----------------
 
-- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/hospitality-agentic-mesh)** - Meta-repo of the Hospitality Agentic Mesh - Specialized AI agents for hotel operations.
-- 🛏️ **[Aetherix](https://github.com/IvandeMurard/Hospitality-Operations-Agentic-AI-B2B/tree/main)** - Contextual Agentic Intelligence layer for Hospitality Operations. (Access on request).
+- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - Meta-repo of the Hospitality Agentic Mesh - Specialized AI agents for hotel operations.
+- 🛏️ **Aetherix** - Contextual Agentic Intelligence layer for Hospitality Operations. *(private repo — walkthrough on request)*
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - A persistent voice AI solution that turns retiring technicians’ tacit knowledge into living guidance for juniors on the shop floor.
 - 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Every neighbourhood has its specifities. Don’t just find a space. Understand it. Compass turns open data into traceable, address-level context for commercial location decisions in Paris.
@@ -42,7 +42,7 @@ Legacy / Past Work
 ------------------
 
 - 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.
-- 🔎 **[EvalLabs](https://github.com/IvandeMurard/Evaluation-Agents-Marketplace)** – Evaluation solution for agent-to-agent workflows with business‑centric metrics.
+- 🔎 **EvalLabs** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. *(private repo)*
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - Product management roles across various sectors and company sizes: start-up, scale-up, large corporations.  
 - Various experiments around open data, automations, and internal tools that now inform my current agentic AI work.
