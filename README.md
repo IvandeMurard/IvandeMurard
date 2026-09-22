@@ -19,7 +19,7 @@ Hi, I'm Ivan 👋
 Current Projects
 ----------------
 
-- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - Meta-repo of the Hospitality Agentic Mesh - Specialized AI agents for hotel operations.
+- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - Meta-repo of the Hospitality Agentic Mesh - An agentic operating layer of 5 specialized agents for hospitality operations. _(Vertical AI Architecture - Hospitality CaaS)_
 - 🛏️ **Aetherix** - Contextual Agentic Intelligence layer for Hospitality Operations. *(private repo — walkthrough on request)*
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - Voice AI mentor for aviation maintenance: captures what a retiring technician knows and never wrote down, then gives it back to a junior on the shop floor by voice, always behind the procedure.
