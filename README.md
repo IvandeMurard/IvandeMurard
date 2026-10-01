@@ -1,7 +1,7 @@
 Hi, I'm Ivan 👋
 ==============
 
-📍 **Paris** | **AI Product Builder · Hospitality Agentic Systems**
+📍 **Paris** | **AI Product Builder · Agentic Systems**
 
 🟢 **Currently available** — CDI · CDD · Freelance
 
