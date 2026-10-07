@@ -20,16 +20,16 @@ Current Projects
 ----------------
 
 - 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - An agentic tool-agnostic layer of 5 specialized agents for hospitality operations. _(Vertical AI Architecture - Hospitality CaaS)_ 
-- 🛏️ **Aetherix** - Contextual Agentic Intelligence layer for Hospitality Operations. *(private repo — walkthrough on request)*
+- 🛏️ **Aetherix** - The F&B agent for boutique hotels. One message a day in WhatsApp, the manager's reply, and the outcome recorded next to it. Built, running on sandbox and public data, no hotel connected yet. *(private repo — walkthrough on request)*
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - Voice AI mentor for aviation maintenance: captures what a retiring technician knows and never wrote down, then gives it back to a junior on the shop floor by voice, always behind the procedure.
-- 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Every neighbourhood has its specifities. Don’t just find a space. Understand it. Compass turns open data into traceable, address-level context for commercial location decisions in Paris. _(Vertical AI CaaS platform for commercial real estate location intelligence.)_
+- 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Compass reads it before you sign. Open data turned into traceable, address-level context for commercial location decisions in Paris. Standalone and agent-ready: `npx -y paris-compass-mcp`.
 
 What I'm Doing
 --------------
 
 - **Exploring agentic AI for operations** – Applying agents to hospitality, music, and real-world services (from hospitality to the industry).  
-- **Shipping AI-native products** – Full-stack builds from prototype to live MVP, with a bias for fast iteration and real usage.  
+- **Shipping AI-native products** – Full-stack builds from prototype to live MVP, with a bias for fast iteration.  
 - **Publishing for agents, not just people** – my work is machine-readable: a live MCP server behind [ivandemurard.com](https://ivandemurard.com) exposing my case studies as typed tools, [`paris-compass-mcp`](https://www.npmjs.com/package/paris-compass-mcp) on npm (`npx -y paris-compass-mcp`, six tools, read-only), and `llms.txt` on the flagship repos.
 - **Writing & learning in public** – Sharing notes on product, evals, and AI systems design (Paris-based meetups, talks, and online content).
 
@@ -38,7 +38,7 @@ My Process
 
 - **Problem Analysis** - Understanding the context, problem, and architecture before building.
 - **Build** - Picking the adapted stack and methodology, applying quick iterations, and rapidly testing.
-- **Continuous Discovery** - Continuously challenging the vision and roadmap, by analyzing the competition, market, and industry's novelties, insights, and weak signals.
+- **Market watch** - Continuously challenging the vision and roadmap, by analyzing the competition, market, and industry's novelties, insights, and weak signals.
 - **Documenting** - Establishing a Single-source-of-Truth, keeping the context, decisions made, what went well, and what didn't, formalized and accessible.
 - **Engineering rigor** - 1.13:1 test-to-app LOC ratio and 12 tracked ADRs on the flagship system; handled a real leaked-secrets incident end-to-end (history rewrite, full credential rotation, GitHub Support purge, post-mortem).
 
