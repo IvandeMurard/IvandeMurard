@@ -13,6 +13,12 @@ Hi, I'm Ivan 👋
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000)
 ![Claude](https://img.shields.io/badge/-Claude-121212?style=flat&logo=anthropic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Fly.io](https://img.shields.io/badge/-Fly.io-7B3BE2?style=flat&logo=flydotio&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 > Building AI-native tools for hospitality ops, city life, industry knowledge management, and vinyl culture.
 
