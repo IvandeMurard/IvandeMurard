@@ -25,11 +25,11 @@ Hi, I'm Ivan 👋
 Current Projects
 ----------------
 
-- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - An agentic tool-agnostic architecture of 5 specialized agents for hospitality operations. _(Vertical AI Architecture - Hospitality CaaS)_ From 0 to 1, and operations to business and tech. 
+- 🛏️ **[Hospitality Multi-agent Architecture](https://github.com/IvandeMurard/Hospitality-Multi-agent-Architecture)** - An agentic tool-agnostic architecture of 5 specialized agents for hospitality operations. _(Vertical AI Architecture - Hospitality Context-as-a-Service)_ From 0 to 1, and operations to business and tech. 
 - 🛏️ **Aetherix** - Contextual Agentic Intelligence layer for Hospitality Operations. *(Built and testable. DM for a 2-minute interactive WhatsApp walkthrough.)*
 - 🔊 **[Tacet](https://github.com/IvandeMurard/tacet-app)** – A proactive, headless intelligence layer designed for the hospitality sector. It predicts the impact of the external acoustic environment, moving from passive awareness to proactive yield management.
 - 🗣️ **[Lore](https://github.com/IvandeMurard/Lore)** - Voice AI mentor for aviation maintenance: captures what a retiring technician knows and never wrote down, then gives it back to a junior on the shop floor by voice, always behind the procedure.
-- 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Every neighbourhood has its specifities. Don’t just find a space. Understand it. Compass turns open data into traceable, address-level context for commercial location decisions in Paris. _(Vertical AI CaaS platform for commercial real estate location intelligence.)_
+- 🧭 **[Compass](https://github.com/IvandeMurard/paris-compass)** - Every address has a story. Every neighbourhood has its specifities. Don’t just find a space. Understand it. Compass turns open data into traceable, address-level context for commercial location decisions in Paris. _(agent-ready open-data product (MCP) for commercial real estate location intelligence.)_
 
 What I'm Doing
 --------------
@@ -51,8 +51,8 @@ My Process
 Legacy / Past Work
 ------------------
 
-- 🏨 **Hospitality PMS (fortil for DomusVi)** – Wrote the functional spec for the F&B module of a hospitality PMS serving DomusVi, France's 3rd-largest eldercare group; MVP delivered, rollout planned for 500+ users across 100 properties. The operational problem the Mesh is built for.
-- 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS to monitor and analyze urban noise, helping cities act on noise pollution.
+- 🏨 **Hospitality PMS (fortil for DomusVi)** – Wrote the functional spec for the F&B module of a hospitality PMS serving DomusVi, France's 2nd-largest eldercare group; 500+ users across 100+ properties.
+- 🔊 **[Sonor](http://sonor.dorik.io/)** – Co-founded an open-data SaaS platform to monitor and analyze urban noise, helping cities act on noise pollution.
 - 🔎 **EvalLabs** – Evaluation solution for agent-to-agent workflows with business‑centric metrics. *(private repo)*
 - 💿 **[喫茶 KISSA](https://github.com/IvandeMurard/kissa-project-mvp-B2C)** – Digital twin of your record collection: scan, contextualize, and curate. Built for selectors and hi-fi hospitality.
 - Product management roles across various sectors and company sizes: start-up, scale-up, large corporations.  
