@@ -35,7 +35,7 @@ What I'm Doing
 --------------
 
 - **Exploring agentic AI for operations** – Applying agents to hospitality, music, and real-world services (from hospitality to the industry).  
-- **Shipping AI-native products** – Full-stack builds from prototype to live MVP, ith a bias for fast iteration toward operational usage.  
+- **Shipping AI-native and eval-by-design products** – Full-stack builds from prototype to live MVP, ith a bias for fast iteration toward operational usage.  
 - **Publishing for agents, not just people** – my work is machine-readable: a live MCP server behind [ivandemurard.com](https://ivandemurard.com) exposing my case studies as typed tools, [`paris-compass-mcp`](https://www.npmjs.com/package/paris-compass-mcp) on npm (`npx -y paris-compass-mcp`, six tools, read-only), and `llms.txt` on the flagship repos.
 - **Writing & learning in public** – Sharing notes on product, evals, and AI systems design (Paris-based meetups, talks, and online content).
 
